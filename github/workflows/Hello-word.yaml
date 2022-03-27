@@ -1,0 +1,9 @@
+name: hello world
+on: test
+  push:
+    branches: [test] 
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    step:
+      - run: echo Helllo World
