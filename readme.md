@@ -1,2 +1,5 @@
-WELCOME TO MY FILE 
-Star 
+Hi 👋, I'm Ngoc Yen,
+
+**WELCOME TO MY REPO**
+ 
+
