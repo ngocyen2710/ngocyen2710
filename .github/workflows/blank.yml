@@ -1,0 +1,13 @@
+name: hi world
+on:
+   push:
+    branches: [ test ]
+  pull_request:
+    branches: [ test ]
+jobs:
+  say-Hi:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo Hi World
+
+     
